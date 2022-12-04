@@ -4,10 +4,23 @@
 
 In the following Analysis the data of the Month of August from an existing bike-sharing service in NYC is used and analyzed. The purpose of the analysis is to evaluate whether a similar bike-sharing program in Des Moines is a solid business proposal. 
 
+[link to Dashoboard] (the upload to Tableau public was not possible due to server errors)
 
 ## Results
 
+<img width="1002" alt="Screen Shot 2022-12-04 at 12 53 36 PM" src="https://user-images.githubusercontent.com/69826498/205516144-1d630a65-abb6-47db-b1fa-3669e26a40e1.png">
 
+<img width="1002" alt="Screen Shot 2022-12-04 at 12 54 03 PM" src="https://user-images.githubusercontent.com/69826498/205516157-65cdb004-a231-4771-8675-4c58fa551418.png">
+
+<img width="1002" alt="Screen Shot 2022-12-04 at 12 54 21 PM" src="https://user-images.githubusercontent.com/69826498/205516169-3b581c3f-f820-448d-82f8-8bd3f9397165.png">
+
+<img width="1002" alt="Screen Shot 2022-12-04 at 12 54 28 PM" src="https://user-images.githubusercontent.com/69826498/205516177-1ad38f70-374d-489a-8314-98c3b9e157a5.png">
+
+<img width="1002" alt="Screen Shot 2022-12-04 at 12 54 37 PM" src="https://user-images.githubusercontent.com/69826498/205516185-e099e6ff-8708-4b3a-ae9e-a9ba96af2a89.png">
+
+<img width="1002" alt="Screen Shot 2022-12-04 at 12 54 47 PM" src="https://user-images.githubusercontent.com/69826498/205516192-2a44a201-ed8e-4c00-9f80-4626f98387d2.png">
+
+<img width="1002" alt="Screen Shot 2022-12-04 at 12 54 58 PM" src="https://user-images.githubusercontent.com/69826498/205516200-751a3eb0-93d5-4898-b55e-d82038792392.png">
 
 ## Summary 
 
